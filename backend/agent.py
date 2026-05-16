@@ -1,4 +1,4 @@
-from backend.drive_tool import search_drive
+from drive_tool import search_drive
 
 
 def generate_drive_query(user_input):
