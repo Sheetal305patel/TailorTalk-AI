@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from agent import process_query
+from backend.agent import process_query
 
 app = FastAPI()
 
